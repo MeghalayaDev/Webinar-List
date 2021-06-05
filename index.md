@@ -9,12 +9,14 @@ Here you can see the list of all our online webinars and meet-ups with links to 
 
 # Our Webinars
 
+### Webinar #2
+- **Topic: React 101 **
+- _Presenter: Mr. Bernard NOngpoh_
+- `5, June 2021, 7:00 PM`
+- 
 ### 1st Webinar 
 - **Topic: WordPress in a nutshell**
 - _Presenter: Mr. Tremi Dkhar, WordPress Engineer, rtCamp_
 - `24, April 2021. 7:30 PM`
 
-### Webinar on May 2021
-- **Topic: **
-- _Presenter:_
-- `29 May 2021, 7:30 PM`
+
